@@ -21,7 +21,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng" alt="HPUhushicheng的GitHub数据" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -62,9 +62,6 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 ```
-
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=HPUhushicheng)]()
-
 
 
 
