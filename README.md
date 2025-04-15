@@ -13,7 +13,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{HPUhushicheng}/count.svg" alt="HPUhushicheng :: Visitor's Count" /></p>
 <h4 align="center">Github stats :bar_chart:</h4>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HPUhushicheng&theme=dark&hide_border=true" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </div>
 <h4 align="center">Top langs :tongue:</h4>
 
