@@ -13,17 +13,12 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{HPUhushicheng}/count.svg" alt="HPUhushicheng :: Visitor's Count" /></p>
 <h4 align="center">Github stats :bar_chart:</h4>
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="HPUhushicheng的GitHub数据" />
 </div>
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPUhushicheng&langs_count=10&theme=tokyonight&layout=compact" alt="HPUhushicheng :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPUhushicheng&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="HPUhushicheng :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&show_icons=true&theme=synthwave" alt="HPUhushicheng的GitHub数据" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <div style="display:inline-block;" align="center">
  <h1>01. Projects Presentation</h1>
