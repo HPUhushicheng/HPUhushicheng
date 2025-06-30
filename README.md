@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/HPUhushicheng">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小胡同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);胡同学祝您今天愉快!&center=true&size=27">
   </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HPUhushicheng/HPUhushicheng/refs/heads/output/github-contribution-grid-snake-dark.svg">
@@ -8,7 +8,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HPUhushicheng/HPUhushicheng/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 </h1>
-
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{HPUhushicheng}/count.svg" alt="HPUhushicheng :: Visitor's Count" /></p>
 <h4 align="center">Github stats :bar_chart:</h4>
