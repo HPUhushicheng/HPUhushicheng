@@ -34,46 +34,13 @@
 | 06 | DoTelegram | 基于Telegram实现广告批量投放的javascript项目。 | https://github.com/HPUhushicheng/telegram-ads |
 | 07 | HPU-API  | 开箱即用的河南理工大学教务逆向请求API，仅供个人使用和学习，不得用于商业用途 | https://github.com/HPUhushicheng/Hpu-Api-docs  <br><br> https://hpu-api-docs.pages.dev/ |
 
+<div style="display:inline-block;" align="center">
+<h1>02. Tools & Programming Languages</h1>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,go,php,bash,md,latex,react,vite,nodejs,express,flutter,electron,tauri,fastapi,flask,nginx,wordpress,mysql,postgres,pytorch,tensorflow,opencv,matlab,anaconda,vscode,pycharm,visualstudio,idea,vim,git,postman,ubuntu,linux,debian,kali,androidstudio,arduino,docker,kubernetes,gcp,vercel,cloudflare,cmake,gradle,pnpm,gmail,instagram,misskey,ai" />
 
 
-### Tools 🛠️
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
-
-### Programming Languages 🌐
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
-|---|---|---|---|---|---|
- 
-
-### 🐤 I'm an early 🐤
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-```
-
-
-### 📊 This week I spent my time on
-
-```text
-⌚︎ Timezone: Asia/Calcutta
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-🔥 Editors: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-```
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="71" height="71" /></div>
+</div>
 
 
 
