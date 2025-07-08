@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/HPUhushicheng">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);无人知我来时路.&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Remember+Who+You+Are);无人知我来时路.&center=true&size=22">
+
   </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HPUhushicheng/HPUhushicheng/refs/heads/output/github-contribution-grid-snake-dark.svg">
