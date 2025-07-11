@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://github.com/HPUhushicheng">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Remember+Who+You+Are);无人知我来时路.&center=true&size=22">
@@ -10,7 +11,10 @@
 </picture>
 </h1>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{HPUhushicheng}/count.svg" alt="HPUhushicheng :: Visitor's Count" /></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{HPUhushicheng}/count.svg" alt="HPUhushicheng :: Visitor's Count" /></p> -->
+<!-- u8views -->
+<p align="center"href="https://u8views.com/github/HPUhushicheng" ><img src="https://u8views.com/api/v1/github/profiles/120257354/views/day-week-month-total-count.svg" /></p>
+
 <h4 align="center">Github stats :bar_chart:</h4>
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="HPUhushicheng的GitHub数据" />
