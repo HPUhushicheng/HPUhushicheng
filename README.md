@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://github.com/HPUhushicheng">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Remember+Who+You+Are);Cheer up!&center=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Remember+Who+You+Are);&center=true&size=18">
 
   </a>
 <picture>
