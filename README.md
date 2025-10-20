@@ -30,7 +30,7 @@
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK  |
 | ----- | ----- | ----- | ----- |
-| 01 | Tianchi-ELE-AI-track2 | 2025 ELE AI track2 消防隐患识别赛道No.1 | https://github.com/HPUhushicheng/elm|
+| 01 | 2025 ELE AI Algorithm Competition "Track 2 | Smart Knight - Fire Hazard Identification Champion🏆（ELE AI算法大赛“赛道二：智慧骑士—消防隐患识别 Champion🏆”） | https://github.com/HPUhushicheng/ELE-AI-Algorithm-Competition-Track-2 |
 | 02 | YOLOv8-K210 Based Explosive Detection System for Elevator Security (**YK-EDS**) | 基于YoloV8和K210深度学习下的小区电梯爆炸物检测系统。该系统能够实时视频帧分析识别和检测人员进入电梯携带的物品是否属于爆炸物类型，串流推送数据至后台数据管理系统，遇到携带爆炸物情况可以能够快速推送预警情况和信息，设备做出警报通知，电梯停载。 |https://www.modelscope.cn/studios/comefly/YOLOv8-detection |
 | 03 | All-in-One Smart Attendance Management Platform using DeepSeek AI for University Labs and Clubs (**ASAMP-DS**) | 拾光考勤系统-基于deepseek智能分析的大学生实验室社团智能考勤一站式管理平台。 | https://github.com/HPUhushicheng/Timer-Plus|
 | 04 | Henan Polytechnic University (College Electrical Appliance Development Department) Artificial Intelligence Robot Laboratory Team Official Forum Website | 河南理工大学(大学生电器开发部) 人工智能机器人实验室团队官方论坛网站。| http://blog.hpuedd.com |
