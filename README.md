@@ -17,7 +17,7 @@
 
 <h4 align="center">Github stats :bar_chart:</h4>
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="HPUhushicheng的GitHub数据" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="50%"  alt="HPUhushicheng的GitHub数据" />
 </div>
 <h4 align="center">Top langs :tongue:</h4>
 
