@@ -31,7 +31,7 @@
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK  |
 | ----- | ----- | ----- | ----- |
-| 01 | 2025 ELE AI Algorithm Competition "Track 2 | Smart Knight - Fire Hazard Identification Champion🏆（ELE AI算法大赛“赛道二：智慧骑士—消防隐患识别 Champion🏆”） | https://github.com/HPUhushicheng/ELE-AI-Algorithm-Competition-Track-2 |
+| 01 | 2025 ELE AI Algorithm Competition "Track 2 | Smart Knight - Fire Hazard Identification Champion🏆冠军（ELE AI算法大赛“赛道二：智慧骑士—消防隐患识别 Champion🏆”） | https://github.com/HPUhushicheng/ELE-AI-Algorithm-Competition-Track-2 |
 | 02 | 2025 BAAI Embodied intelligence Robot |The 2nd Zhongguancun Embodied intelligence Robot Application Competition 2025第二届中关村具身智能机器人应用大赛 县身智能模型能力挑战赛(具身大脑) 季军🥉 | https://github.com/HPUhushicheng/Baai-robobrain|
 | 02 |  MSA-Challenge-The-4th-Pazhou-AI-Competition | Cross-lingual Multimodal Explainable Sentiment Recognition Challenge Ranking 5💪(第四届琶洲人工智能大赛国际人工智能竞赛-跨语言多模态可解释的情感识别竞赛 第五名💪) | https://github.com/HPUhushicheng/MSA-Challenge-The-4th-Pazhou-AI-Competition |
 | 03 | YOLOv8-K210 Based Explosive Detection System for Elevator Security (**YK-EDS**) | 基于YoloV8和K210深度学习下的小区电梯爆炸物检测系统。该系统能够实时视频帧分析识别和检测人员进入电梯携带的物品是否属于爆炸物类型，串流推送数据至后台数据管理系统，遇到携带爆炸物情况可以能够快速推送预警情况和信息，设备做出警报通知，电梯停载。 |https://www.modelscope.cn/studios/comefly/YOLOv8-detection |
