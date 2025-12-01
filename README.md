@@ -16,13 +16,13 @@
 <!-- u8views -->
 <p align="center"href="https://u8views.com/github/HPUhushicheng" ><img src="https://u8views.com/api/v1/github/profiles/120257354/views/day-week-month-total-count.svg" /></p>
 
-<h4 align="center">Github stats :bar_chart:</h4>
+<!-- <h4 align="center">Github stats :bar_chart:</h4>
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=HPUhushicheng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="50%"  alt="HPUhushicheng的GitHub数据" />
 </div>
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPUhushicheng&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="HPUhushicheng :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPUhushicheng&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="HPUhushicheng :: Top Langs" /></p> -->
 
 
 <div style="display:inline-block;" align="center">
