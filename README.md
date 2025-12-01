@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Remember+Who+You+Are);&center=true&size=18">
 
   </a>
-<picture>
-  <img width="1059" height="540" alt="github-contributions_1 5x_postspark_2025-11-10_21-15-33" src="https://github.com/user-attachments/assets/251c5548-a201-4b2a-a51b-95549b8d1c8d" />
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HPUhushicheng/HPUhushicheng/refs/heads/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HPUhushicheng/HPUhushicheng/refs/heads/output/github-contribution-grid-snake.svg">
