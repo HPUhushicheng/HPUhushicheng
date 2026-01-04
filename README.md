@@ -41,6 +41,7 @@
 | 07 | Timer-oi(Next-generation intelligent knowledge collaboration platform-redefine efficient knowledge management to seamlessly connect inspiration and wisdom); (**Timer-oi**) | 拾光Timer-oi｜下一代智能知识协作平台 —— 重新定义高效知识管理，让灵感与智慧无缝连接;内置DeepSeek、硅基流动、PPIO等主流ai模型和服务商，可以无缝切换不同模型，支持多轮对话、联网搜索、文件上传、知识库等多种功能，内置个人笔记工具，支持用户快速记录和组织灵感。拾光具有AI增强的搜索功能，支持自然语言查询，支持Markdown，提供标签管理和批量操作,帮助用户轻松找到所需笔记,让用户专注于内容创作。快速记录灵感:用户迅速记录下瞬间的想法，无需担心格式或复杂的操作。  | https://github.com/HPUhushicheng/Timer-oi |
 | 08 | DoTelegram | 基于Telegram实现广告批量投放的javascript代码。 | https://github.com/HPUhushicheng/telegram-ads |
 | 09 | HPU-API  | 开箱即用的河南理工大学教务逆向请求API，仅供个人使用和学习，不得用于商业用途 | https://github.com/HPUhushicheng/Hpu-Api-docs  <br><br> https://hpu-api-docs.pages.dev/ |
+| other | tools && pages  | 网页探针 | https://uptimeflare-v22.pages.dev |
 
 <div style="display:inline-block;" align="center">
 <h1>02. Tools & Programming Languages</h1>
