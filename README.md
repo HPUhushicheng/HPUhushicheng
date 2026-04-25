@@ -47,29 +47,3 @@
 <h1>02. Tools & Programming Languages</h1>
 <img src="https://skillicons.dev/icons?i=py,js,html,css,c,cpp,go,php,bash,md,latex,react,vite,nodejs,express,flutter,electron,tauri,fastapi,flask,nginx,wordpress,mysql,postgres,pytorch,tensorflow,opencv,matlab,anaconda,vscode,pycharm,visualstudio,idea,vim,git,postman,ubuntu,linux,debian,kali,androidstudio,arduino,docker,kubernetes,gcp,vercel,cloudflare,cmake,gradle,pnpm,gmail,instagram,misskey,ai" />
 
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="71" height="71" /></div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
